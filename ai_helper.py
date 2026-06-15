@@ -1,9 +1,14 @@
 import os
+from dotenv import load_dotenv
 from google import genai
 
-client = genai.Client(
-    api_key=os.getenv("GEMINI_API_KEY"))
+load_dotenv()
 
+api_key = os.getenv("GEMINI_API_KEY")
+
+client = genai.Client(
+    api_key=api_key
+)
 def generate_response(notes, choice, source_type="notes"):
 
     if source_type == "youtube":

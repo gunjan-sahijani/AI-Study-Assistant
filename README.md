@@ -86,6 +86,24 @@ http://127.0.0.1:5000
 * Advanced lecture analysis
 * Multi-language support
 
+## Screenshots
+
+### Homepage
+
+![Homepage](images/homepage.png)
+
+### Notes Summary
+
+![Notes Summary](images/notes summary.png)
+
+### PDF Analysis
+
+![PDF Analysis](images/pdf quiz.png)
+
+### YouTube Analysis
+
+![YouTube Analysis](images/youtube video summary.png)
+
 ## Author
 
 Gunjan Sahijani
