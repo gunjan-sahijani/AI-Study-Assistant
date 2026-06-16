@@ -94,15 +94,15 @@ http://127.0.0.1:5000
 
 ### Notes Summary
 
-![Notes Summary](images/notes summary.png)
+![Notes Summary](images/notes-summary.png)
 
 ### PDF Analysis
 
-![PDF Analysis](images/pdf quiz.png)
+![PDF Analysis](images/pdf-quiz.png)
 
 ### YouTube Analysis
 
-![YouTube Analysis](images/youtube video summary.png)
+![YouTube Analysis](images/youtube-video-summary.png)
 
 ## Author
 
